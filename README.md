@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sahbaaz Ansari
 - 👀 I'm a Cybersecuity Enthusiast
-- 🌱 I’m am a Full Stack Ethereum Developer and Blockchain Protocol Researcher, Cybersecurity Student .
+- 🌱 I’m am a Full Stack Ethereum Developer and Blockchain and ZKP Researcher, Cybersecurity Student .
 - 💞️ I’m looking to collaborate on with great personalities
-- 📫 How to reach me sk.skywarrior@gmail.com
+- 📫 How to reach me sahbaazansari07@gmail.com
 - Looking forward to build a great experience for the Decentralized world!! 
 <!---
 SkyWarrior123/SkyWarrior123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
